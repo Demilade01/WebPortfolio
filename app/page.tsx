@@ -10,7 +10,7 @@ export default function Home() {
             Make anything possible with <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">Web Development</span>
           </h1>
           <p className="text-gray-200 hidden md:block">
-            My very own web portfolio
+            Unlock the potential of your ideas with the power of web development. From building dynamic websites to creating interactive applications, the possibilities are endless.
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link href="/my-skills" className="rounded-[20px] bg-transparent group relative hover:bg-blue-400 px-5 py-3 text-lg text-white max-w-[200px]">
